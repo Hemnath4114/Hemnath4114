@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HemnathM&show_icons=true&theme=radical&hide=issues&rank_icon=github" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemnathM&theme=radical" width="47%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemnathM&layout=compact&theme=radical&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemnath4114&layout=compact&theme=radical&langs_count=8" width="60%" />
 </div>
 
 ---
