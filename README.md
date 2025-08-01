@@ -56,7 +56,14 @@
 </div>
 
 ---
+<h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemnathM&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HemnathM&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
+</p>
+
+---
 ### 📈 Contribution Graph
 
 <p align="center">
