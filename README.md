@@ -22,6 +22,22 @@
 
 ---
 
+
+### 🧠 Current Focus
+- 🌱 Learning advanced **React**, **Next.js**, and **MongoDB**
+- ⚡ Improving UI/UX design using **TailwindCSS** and **Figma**
+- 🧩 Working on real-time web projects to boost my portfolio
+
+---
+
+### 🏆 Achievements (You Can Customize These Later)
+- 🎤 Delivered seminar on **Hybrid Cloud Computing**
+- 🔥 Final-year project “**MyZoom**” – built using Transformers for feedback validation
+- 🛠️ Created full-stack apps like **ThinkNotes**, **MoodTunes**, and more
+- ⚽ Team leader on college trips & active in entrepreneurship committee
+
+---
+
 ### 🔥 GitHub Trophies
 
 <p align="center">
@@ -85,6 +101,7 @@
     <img src="https://img.shields.io/badge/Instagram-@your_instagram_username-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
