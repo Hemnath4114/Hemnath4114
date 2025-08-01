@@ -64,10 +64,9 @@
 </p>
 
 ---
-### 📈 Contribution Graph
-
+### Contribution
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemnathM&theme=light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemnathM&theme=tokyo-night&area=true&hide_border=false&radius=10" alt="Contribution Graph"/>
 </p>
 
 ---
