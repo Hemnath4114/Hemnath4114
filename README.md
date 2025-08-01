@@ -65,40 +65,23 @@
 
 ---
 
-### 🧠 Currently Working On
-
-- 🚀 Final-year project **MyZoom** – Transformer-powered feedback analyzer  
-- ⚡ Improving frontend with **React + TailwindCSS + Next.js**  
-- 🧱 Building my portfolio and prepping for full stack dev opportunities
-
----
-
-### 🏆 Notable Achievements
-
-- 🛡️ Led a 3-day trip as **class captain** (organized & managed event flow)
-- 🎤 Presented a technical seminar on **Hybrid Cloud Computing**
-- 🔧 Built **ThinkNotes** – MERN app for personalized note management
-- 🎧 Created **MoodTunes** – JS-based dynamic music player
-
----
-
-### 🌐 Let's Connect
+<h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
   <a href="mailto:hemnathm.it2022@dscet.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%20hemnathm.it2022@dscet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hemnathm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-HemnathM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/HemnathM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HemnathM-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@your_instagram_username-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
   </a>
 </p>
 
