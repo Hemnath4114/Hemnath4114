@@ -1,12 +1,15 @@
 <!-- Header -->
+<div>
 <div align="left">
-<img src="assets/avatar.png" alt="Hemnath Avatar" width="100" />
+<img src="assets/avatar.png" alt="Hemnath Avatar" width="50" />
 </div>
 
   <div align="center" style="display: inline-block; vertical-align: top; max-width: 500px; margin-left: 20px;">
     <h2>Hey there 👋 I'm Hemnath</h2>
     <i>Full Stack Developer in Progress | Student | Passionate about clean code & UI/UX</i><br><br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=400&lines=Building+with+MERN+%7C+Next.js;Always+Learning+Something+New+%F0%9F%92%AB;Let's+Connect+%26+Code+Together+%F0%9F%94%A5" alt="Typing SVG" />
+  </div>
+
   </div>
 
 ---
