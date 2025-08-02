@@ -31,13 +31,25 @@ Currently diving deep into **React, Node.js, Next.js, MongoDB**, and always look
 
 ---
 
-### 🏆 Achievements
+### 🌐 Connect with me
 
-- 🧠 Built **ThinkNotes**, a collaborative note-taking MERN app  
-- 💡 Created **MoodTunes** – mood-based music player using JS  
-- 🥇 Class Captain & active participant in tech committees  
-- 🌐 Deployed multiple apps using **Render**  
-- 💬 Mentoring juniors in coding, communication & careers  
+<p align="center">
+  <a href="mailto:hemnath041104@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hemnath-marimuthu-in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hemnath4114" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
+  </a>
+</p>
 
 ---
 
@@ -72,28 +84,17 @@ Currently diving deep into **React, Node.js, Next.js, MongoDB**, and always look
 </p>
 
 ---
-### 🌐 Connect with me
 
-<p align="center">
-  <a href="mailto:hemnath041104@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hemnath-marimuthu-in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Hemnath4114" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
-  </a>
-</p>
+### 🏆 Achievements
 
+- 🧠 Built **ThinkNotes**, a collaborative note-taking MERN app  
+- 💡 Created **MoodTunes** – mood-based music player using JS  
+- 🥇 Class Captain & active participant in tech committees  
+- 🌐 Deployed multiple apps using **Render**  
+- 💬 Mentoring juniors in coding, communication & careers  
 
 ---
+
 
 ### 🎯 Fun Facts
 
@@ -102,7 +103,6 @@ Currently diving deep into **React, Node.js, Next.js, MongoDB**, and always look
 - 🏏 Football + Cricket = My other languages
 - 🤖 Big fan of AI, logic, and pushing limits
 
----
 ---
 
 ### 💬 Personal Motto
