@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="assets/avatar.png" alt="Hemnath Avatar" width="150" style="border-radius: 50%" />
+</p>
+
+<h1 align="center">Hey, I'm Hemnath 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Dev in Progress</strong> • 3rd Year IT Student • Clean Code Enthusiast 🚀
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7A3&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Welcome+to+my+GitHub+space!;Coding+my+dreams+line+by+line+👨‍💻;Let's+build+something+cool+together+🚀" alt="Typing SVG" />
+</p>
+
+
+
 <!-- Header -->
 <h2 align="center">Hey there 👋 I'm Hemnath</h2>
 <p align="center"><i>Full Stack Developer in Progress | Student | Passionate about clean code & UI/UX</i></p>
