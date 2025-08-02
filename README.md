@@ -1,25 +1,17 @@
-<p align="center">
-  <img src="assets/avatar.png" alt="Hemnath Avatar" width="150" style="border-radius: 50%" />
-</p>
-
-<h1 align="center">Hey, I'm Hemnath 👋</h1>
-
-<p align="center">
-  <strong>Full Stack Dev in Progress</strong> • 3rd Year IT Student • Clean Code Enthusiast 🚀
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C7A3&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Welcome+to+my+GitHub+space!;Coding+my+dreams+line+by+line+👨‍💻;Let's+build+something+cool+together+🚀" alt="Typing SVG" />
-</p>
-
-
-
 <!-- Header -->
-<h2 align="center">Hey there 👋 I'm Hemnath</h2>
-<p align="center"><i>Full Stack Developer in Progress | Student | Passionate about clean code & UI/UX</i></p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=440&lines=Building+with+MERN+%7C+Next.js;Always+Learning+Something+New+%F0%9F%92%AB;Let's+Connect+%26+Code+Together+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="assets/avatar.png" alt="Hemnath Avatar" width="300" />
+
+  <div align="center" style="display: inline-block; vertical-align: top; max-width: 500px; margin-left: 20px;">
+    <h2>Hey there 👋 I'm Hemnath</h2>
+    <i>Full Stack Developer in Progress | Student | Passionate about clean code & UI/UX</i><br><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=400&lines=Building+with+MERN+%7C+Next.js;Always+Learning+Something+New+%F0%9F%92%AB;Let's+Connect+%26+Code+Together+%F0%9F%94%A5" alt="Typing SVG" />
+  </div>
+</div>
+
+</table>
+
+
 
 
 ---
