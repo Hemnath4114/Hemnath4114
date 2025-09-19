@@ -59,7 +59,7 @@ Currently diving deep into **React, Node.js, Next.js, MongoDB**, and always look
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemnath4114&show_icons=true&theme=tokyonight&border_radius=10&title_color=ffffff&icon_color=79ff97" height="170" />
