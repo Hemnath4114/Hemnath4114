@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07090D"/>
+      <stop offset="1" stop-color="#0B1118"/>
+    </linearGradient>
+    <linearGradient id="line" x1="170" y1="110" x2="1400" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="760" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="760" rx="36" fill="url(#grid)"/>
+  <rect x="34" y="34" width="1532" height="692" rx="28" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="84" y="104" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#94A3B8">REAL-TIME VOICE SYSTEM / 001</text>
+  <text x="84" y="144" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#F8FAFC">The model is one node. The system is the product.</text>
+
+  <!-- lanes -->
+  <g font-family="JetBrains Mono, monospace">
+    <g>
+      <rect x="90" y="220" width="220" height="96" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="115" y="255" font-size="12" letter-spacing="2" fill="#64748B">INPUT</text>
+      <text x="115" y="287" font-size="18" fill="#F8FAFC">USER AUDIO</text>
+    </g>
+
+    <g>
+      <rect x="360" y="220" width="220" height="96" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="385" y="255" font-size="12" letter-spacing="2" fill="#64748B">PERCEPTION</text>
+      <text x="385" y="287" font-size="18" fill="#F8FAFC">VAD / ASR</text>
+    </g>
+
+    <g>
+      <rect x="630" y="180" width="300" height="176" rx="20" fill="#0F151D" stroke="url(#line)" stroke-opacity="0.70"/>
+      <text x="660" y="218" font-size="12" letter-spacing="2" fill="#64748B">ORCHESTRATION CORE</text>
+      <text x="660" y="253" font-size="20" font-weight="700" fill="#F8FAFC">STATE + POLICY + ROUTING</text>
+      <text x="660" y="288" font-size="13" fill="#94A3B8">context / cancellation / streaming</text>
+      <text x="660" y="314" font-size="13" fill="#94A3B8">tool execution / turn control</text>
+    </g>
+
+    <g>
+      <rect x="1000" y="150" width="210" height="86" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="1025" y="182" font-size="11" letter-spacing="2" fill="#64748B">INTELLIGENCE</text>
+      <text x="1025" y="212" font-size="18" fill="#F8FAFC">LLM</text>
+    </g>
+
+    <g>
+      <rect x="1000" y="270" width="210" height="86" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="1025" y="302" font-size="11" letter-spacing="2" fill="#64748B">ACTION</text>
+      <text x="1025" y="332" font-size="18" fill="#F8FAFC">TOOLS / APIs</text>
+    </g>
+
+    <g>
+      <rect x="1000" y="390" width="210" height="86" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="1025" y="422" font-size="11" letter-spacing="2" fill="#64748B">STATE</text>
+      <text x="1025" y="452" font-size="18" fill="#F8FAFC">MEMORY</text>
+    </g>
+
+    <g>
+      <rect x="630" y="450" width="300" height="96" rx="18" fill="#0F151D" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="660" y="485" font-size="12" letter-spacing="2" fill="#64748B">GENERATION</text>
+      <text x="660" y="517" font-size="18" fill="#F8FAFC">STREAMING OUTPUT</text>
+    </g>
+
+    <g>
+      <rect x="360" y="450" width="220" height="96" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="385" y="485" font-size="12" letter-spacing="2" fill="#64748B">SPEECH</text>
+      <text x="385" y="517" font-size="18" fill="#F8FAFC">TTS / AUDIO</text>
+    </g>
+
+    <g>
+      <rect x="90" y="450" width="220" height="96" rx="18" fill="#0D131A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="115" y="485" font-size="12" letter-spacing="2" fill="#64748B">OUTPUT</text>
+      <text x="115" y="517" font-size="18" fill="#F8FAFC">USER HEARS</text>
+    </g>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M310 268H360"/>
+    <path d="M580 268H630"/>
+    <path d="M930 228H1000"/>
+    <path d="M930 268H1000"/>
+    <path d="M930 314H1000"/>
+    <path d="M780 356V450"/>
+    <path d="M630 498H580"/>
+    <path d="M360 498H310"/>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif" font-size="13" fill="#64748B">
+    <text x="109" y="618">CRITICAL PATH</text>
+    <text x="109" y="646" font-size="17" fill="#E2E8F0">The work between these nodes is where latency lives.</text>
+  </g>
+
+  <g font-family="JetBrains Mono, monospace" font-size="11" fill="#64748B">
+    <text x="1260" y="620">TTFT</text>
+    <text x="1260" y="646">TTFA</text>
+    <text x="1260" y="672">QUEUE</text>
+    <text x="1360" y="620">TOOL</text>
+    <text x="1360" y="646">E2E</text>
+    <text x="1360" y="672">BARGE-IN</text>
+  </g>
+</svg>
