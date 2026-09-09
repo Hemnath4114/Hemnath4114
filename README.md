@@ -1,705 +1,600 @@
 <div align="center">
 
-# HEY, I'M HEMNATH 👋
+<br/>
 
-### AI Engineer • Voice AI • LLM Systems • Real-Time Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0A0F14,100:111827&text=HEMNATH%20M&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=AI%20ENGINEERING%20%2F%2F%20VOICE%20%2F%2F%20LLM%20SYSTEMS&descAlignY=62&descSize=16&animation=fadeIn"/>
 
-**I build systems that listen, reason, act, and speak — in real time.**
+<br/>
+
+### `01 // IDENTITY`
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   H E M N A T H   M                                                   ║
+║                                                                      ║
+║   AI ENGINEER                                                        ║
+║   REAL-TIME SYSTEMS                                                  ║
+║   VOICE + LLM INFRASTRUCTURE                                        ║
+║                                                                      ║
+║   building machines that listen → reason → act → speak              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Engineering+real-time+AI+systems.;Designing+voice+agents+that+feel+instant.;LLMs+%2B+streaming+%2B+tools+%2B+speech.;Obsessed+with+latency%2C+architecture%2C+and+systems.;Turning+complex+pipelines+into+simple+experiences."/>
 
 <br/>
 
 <a href="https://github.com/Hemnath4114">
-  <img src="https://img.shields.io/github/followers/Hemnath4114?label=Followers&style=for-the-badge&logo=github&color=181717" />
-</a>
-<a href="https://github.com/Hemnath4114">
-  <img src="https://img.shields.io/github/stars/Hemnath4114?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" />
-</a>
-<a href="mailto:hemnath041104@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/hemnath-marimuthu-in/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+<a href="mailto:hemnath041104@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=800&lines=Building+real-time+AI+systems.;Engineering+voice+agents+that+actually+feel+alive.;Obsessing+over+latency%2C+streaming%2C+and+system+design.;LLMs+are+only+one+part+of+the+system.;I+build+the+system+around+them." />
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
+
+# `SYSTEM // ONLINE`
 
 ```text
-Hemnath M
-
-AI Engineer
-├── Voice AI
-├── Conversational AI
-├── LLM Systems
-├── Real-Time Streaming
-├── AI Infrastructure
-├── Latency Engineering
-└── Full-Stack Foundations
-
-Currently fascinated by:
-How do we make intelligent systems feel immediate?
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  DOMAIN        AI ENGINEERING                                      │
+│  CORE          VOICE AI + LLM SYSTEMS                              │
+│  FOCUS         REAL-TIME / STREAMING / ORCHESTRATION               │
+│  PRIORITY      LATENCY                                             │
+│  STATUS        BUILDING                                            │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
-I'm a developer who moved beyond simply building applications and became increasingly interested in **how intelligent systems behave under real-world constraints**.
-
-My current work sits at the intersection of:
-
-**AI × Voice × Distributed Systems × Software Engineering**
-
-I work with systems involving speech recognition, LLM reasoning, tool execution, streaming pipelines, text-to-speech, orchestration, and latency optimization.
-
-The interesting part isn't making every component work independently.
-
-The interesting part is making the **entire system work together fast enough that a human stops noticing the machinery behind it.**
+</div>
 
 ---
 
-## `current_mode.exe`
+# `02 // WHO AM I`
 
-```text
-MODE:              BUILDING
+I'm **Hemnath M**.
 
-PRIMARY DOMAIN:    AI ENGINEERING
-SPECIALIZATION:   VOICE + CONVERSATIONAL SYSTEMS
+I started from full-stack engineering.
 
-CURRENT QUESTIONS:
+Then I became more interested in something deeper:
 
-→ How do we reduce end-to-end conversational latency?
-→ How should streaming pipelines be orchestrated?
-→ Where should state live?
-→ When should an LLM call a tool?
-→ How do we prevent unnecessary LLM round trips?
-→ How do we stream intelligence instead of waiting for it?
-→ How do we make voice agents interruptible?
-→ How do we measure perceived latency, not just API latency?
+> **What actually happens between a human saying something and an intelligent machine responding?**
 
-STATUS:
+That question pulled me into **AI engineering**.
 
-███████████████████████░░░  Always learning
-```
+Now I work around systems involving:
+
+`Speech → Language → Reasoning → Tools → State → Streaming → Speech`
+
+My interest is not just in using an AI model.
+
+It is in engineering the **system around the model**.
 
 ---
 
-# 🧠 What I Build
+# `03 // CORE DOMAIN`
 
-I am particularly interested in **production AI systems**, not only models.
+<div align="center">
 
-### Voice AI
+|       `01`      |     `02`     |      `03`      |       `04`       |
+| :-------------: | :----------: | :------------: | :--------------: |
+|        🧠       |      🎙️     |        ⚡       |        🏗️       |
+| **LLM SYSTEMS** | **VOICE AI** |   **LATENCY**  | **ARCHITECTURE** |
+|  orchestration  |   ASR / TTS  | critical paths |   async systems  |
+|   tool calling  |      VAD     |   TTFT / TTFA  |     streaming    |
+|     context     |  turn-taking |    queueing    |       state      |
+|      memory     |   barge-in   |   parallelism  |    reliability   |
 
-```text
-User Speech
-    ↓
-Speech Detection
-    ↓
-ASR / Transcription
-    ↓
-Language / Intent Routing
-    ↓
-LLM Orchestration
-    ↓
-Tool / API Execution
-    ↓
-Response Generation
-    ↓
-Streaming TTS
-    ↓
-User
-```
-
-The real engineering challenge is everything that happens **between those arrows**.
-
-Streaming.
-Queues.
-Backpressure.
-Barge-in.
-Cancellation.
-Latency.
-State.
-Retries.
-Concurrency.
-Tool orchestration.
-Partial outputs.
-Failure handling.
-
-That is where I like working.
+</div>
 
 ---
 
-# ⚡ My Engineering Obsession
-
-## Latency
-
-A conversational AI system can be functionally correct and still feel broken.
-
-I care about the difference between:
+# `04 // THE SYSTEMS I BUILD`
 
 ```text
-"It eventually answered."
+                         HUMAN
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   AUDIO INPUT   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   VAD / ASR     │
+                  │ perception layer│
+                  └────────┬────────┘
+                           │
+                           ▼
+              ┌───────────────────────────┐
+              │     ORCHESTRATION CORE   │
+              │                           │
+              │  state • routing • policy │
+              └─────────────┬─────────────┘
+                            │
+                 ┌──────────┼───────────┐
+                 │          │           │
+                 ▼          ▼           ▼
+             ┌───────┐  ┌───────┐  ┌────────┐
+             │  LLM  │  │ TOOLS │  │ MEMORY │
+             └───┬───┘  └───┬───┘  └───┬────┘
+                 │          │           │
+                 └──────────┼───────────┘
+                            ▼
+                  ┌─────────────────┐
+                  │ STREAMING OUTPUT│
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │      TTS        │
+                  │ audio generation│
+                  └────────┬────────┘
+                           │
+                           ▼
+                         HUMAN
 ```
 
-and
+The architecture is the product.
 
-```text
-"It felt instantaneous."
-```
-
-So I think in terms of the entire critical path:
-
-```text
-User stops speaking
-        ↓
-VAD / endpoint detection
-        ↓
-ASR latency
-        ↓
-LLM first-token latency
-        ↓
-Tool latency
-        ↓
-LLM continuation latency
-        ↓
-TTS first-audio latency
-        ↓
-Audio playback
-```
-
-And I ask:
-
-> **Which milliseconds are actually necessary?**
-
-That question drives a lot of my engineering decisions.
+The model is one component inside it.
 
 ---
 
-# 🏗️ The Kind of Systems I Like
+# `05 // LOLA`
 
-```mermaid
-flowchart LR
+<div align="center">
 
-    A[🎙️ User Voice] --> B[ASR]
-    B --> C[Conversation Orchestrator]
+## `LOLA // REAL-TIME CONVERSATIONAL AI`
 
-    C --> D{Need Tool?}
+</div>
 
-    D -->|No| E[LLM]
-    D -->|Yes| F[Tool / API Layer]
+One of the areas I'm most interested in is **real-time voice interaction**.
 
-    F --> E
+A voice agent is not:
 
-    E --> G[Streaming Response]
-    G --> H[TTS]
-    H --> I[🔊 User]
-
-    C --> J[(State / Memory)]
-    C --> K[Latency + Observability]
-
-    I -. interruption .-> C
+```text
+audio → LLM → audio
 ```
 
-I am especially interested in architectures where the system behaves like a **pipeline**, rather than a sequence of blocking API calls.
+A serious implementation is closer to:
+
+```text
+ ┌───────────┐
+ │   USER    │
+ └─────┬─────┘
+       │
+       ▼
+ ┌──────────────┐
+ │ VAD / AUDIO  │
+ └──────┬───────┘
+        │
+        ▼
+ ┌──────────────┐
+ │     ASR      │
+ └──────┬───────┘
+        │
+        ▼
+ ┌──────────────────────────┐
+ │   CONVERSATION ENGINE    │
+ │                          │
+ │ state / context / policy │
+ └───────┬─────────┬────────┘
+         │         │
+         │         └─────────────┐
+         ▼                       ▼
+      ┌───────┐              ┌────────┐
+      │  LLM  │◄────────────►│  TOOL  │
+      └───┬───┘              └────────┘
+          │
+          ▼
+ ┌────────────────┐
+ │ STREAMING TEXT │
+ └───────┬────────┘
+         │
+         ▼
+ ┌────────────────┐
+ │ STREAMING TTS  │
+ └───────┬────────┘
+         │
+         ▼
+    🔊 USER AUDIO
+```
+
+### The interesting part?
+
+**The milliseconds between those boxes.**
 
 ---
 
-# 🔬 Areas I'm Deep In
+# `06 // LATENCY IS A FEATURE`
 
-| Domain                | What interests me                                        |
-| --------------------- | -------------------------------------------------------- |
-| 🎙️ Voice AI          | STT, TTS, VAD, turn-taking, barge-in                     |
-| 🧠 LLM Systems        | prompting, routing, tool calling, structured outputs     |
-| ⚡ Latency Engineering | TTFT, TTFA, queueing, parallelization                    |
-| 🔄 Streaming          | token streaming, audio streaming, incremental processing |
-| 🧩 Orchestration      | DAGs, state machines, async workflows                    |
-| 🛠️ Tool Calling      | API execution, retries, validation, cancellation         |
-| 🧠 Memory             | conversation state, context management, persistence      |
-| 📊 Observability      | tracing, timing analysis, bottleneck detection           |
-| 🏎️ Performance       | concurrency, batching, connection reuse                  |
-| 🏗️ Backend Systems   | APIs, services, async Python, distributed workflows      |
-| 💻 Full Stack         | frontend + backend fundamentals when the system needs it |
+```text
+USER
+ │
+ │  speech
+ ▼
+┌────────────┐
+│ endpointing│
+└─────┬──────┘
+      │
+      ▼
+┌────────────┐
+│    ASR     │
+└─────┬──────┘
+      │
+      ▼
+┌────────────┐
+│    LLM     │───────┐
+└─────┬──────┘       │
+      │              │
+      │         ┌────▼────┐
+      │         │  TOOL   │
+      │         └────┬────┘
+      │              │
+      └──────────────┘
+             │
+             ▼
+       ┌────────────┐
+       │    TTS     │
+       └─────┬──────┘
+             │
+             ▼
+           AUDIO
+```
+
+My favorite engineering question:
+
+```text
+"What can happen BEFORE the thing finishes?"
+```
+
+That leads to:
+
+`streaming`
+
+`parallel execution`
+
+`early tool execution`
+
+`queue optimization`
+
+`state reuse`
+
+`connection reuse`
+
+`cancellation`
+
+`critical-path reduction`
 
 ---
 
-# 🧰 Technology
+# `07 // ENGINEERING DNA`
 
-### AI / ML
+<div align="center">
+
+```text
+                 ┌──────────────────┐
+                 │     OBSERVE      │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │     MEASURE      │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │    IDENTIFY      │
+                 │    BOTTLENECK    │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │    OPTIMIZE      │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │     RE-MEASURE   │
+                 └──────────────────┘
+```
+
+</div>
+
+I don't consider:
+
+```text
+"it feels faster"
+```
+
+to be a performance measurement.
+
+I care about:
+
+`TTFT` · `TTFA` · `E2E latency` · `queue delay` · `tool latency` · `token throughput` · `audio startup`
+
+---
+
+# `08 // STACK`
+
+### `AI / ML`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 </p>
 
-`LLMs` · `Speech-to-Text` · `Text-to-Speech` · `Voice AI` · `Embeddings` · `Inference` · `Model Evaluation`
+<div align="center">
+
+`LLMs` · `Speech Models` · `ASR` · `TTS` · `Embeddings` · `Inference` · `Evaluation`
+
+</div>
 
 ---
 
-### Backend / Systems
+### `BACKEND / SYSTEMS`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,express,docker,linux&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,docker,linux&theme=dark"/>
 </p>
 
-`AsyncIO` · `REST APIs` · `WebSockets` · `Streaming` · `Queues` · `Concurrency` · `Microservices`
+<div align="center">
+
+`AsyncIO` · `WebSockets` · `REST` · `Streaming` · `Queues` · `Concurrency`
+
+</div>
 
 ---
 
-### Frontend
+### `DATA / INFRA`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github&theme=dark"/>
 </p>
 
-I came from the full-stack side of engineering, so I still care about the interface.
+<div align="center">
 
-The difference now is that I'm more interested in what happens **behind the interface**.
+`State` · `Caching` · `Persistence` · `Containers` · `Observability`
+
+</div>
 
 ---
 
-### Data / Infrastructure
+### `FRONTEND`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark"/>
 </p>
 
-`State` · `Caching` · `Persistence` · `Containers` · `Version Control`
+<div align="center">
+
+Full-stack foundations remain part of the stack.
+
+</div>
 
 ---
 
-# 🧪 Current Technical Interests
+# `09 // WHAT I ACTUALLY THINK ABOUT`
+
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  Why is the agent waiting?                                        │
+│                                                                    │
+│  Can two operations happen simultaneously?                        │
+│                                                                    │
+│  Can the model start producing before the full answer exists?     │
+│                                                                    │
+│  Can the tool execute earlier?                                    │
+│                                                                    │
+│  Can the user interrupt safely?                                   │
+│                                                                    │
+│  What happens when the network disappears?                        │
+│                                                                    │
+│  Where does state actually live?                                  │
+│                                                                    │
+│  Which operation is truly on the critical path?                   │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `10 // CURRENT EXPLORATION`
 
 ```yaml
-AI:
-  - LLM orchestration
-  - conversational agents
-  - speech systems
-  - inference pipelines
-  - model evaluation
+FOCUS:
+  ├── Voice AI
+  ├── Conversational Agents
+  ├── LLM Orchestration
+  ├── Streaming Architectures
+  ├── Tool Calling
+  ├── Async Systems
+  ├── Latency Engineering
+  └── AI Infrastructure
 
-VOICE:
-  - streaming ASR
-  - streaming TTS
-  - interruption handling
-  - turn detection
-  - conversational timing
+DEEPER:
+  ├── VAD
+  ├── ASR
+  ├── TTS
+  ├── Context Management
+  ├── Memory
+  ├── DAG Execution
+  ├── Observability
+  └── Failure Handling
 
-SYSTEMS:
-  - async architectures
-  - DAG execution
-  - event-driven workflows
-  - tool orchestration
-  - queue design
-  - state management
-
-PERFORMANCE:
-  - end-to-end latency
-  - first-token latency
-  - first-audio latency
-  - parallel execution
-  - connection reuse
-  - critical-path optimization
-
-ENGINEERING:
-  - observability
-  - debugging
-  - reliability
-  - production readiness
-  - failure isolation
+MENTAL_MODEL:
+  build → measure → profile → optimize → repeat
 ```
 
 ---
 
-# 🧩 How I Think About AI Systems
+# `11 // PROJECT SIGNAL`
 
-A model is not a product.
+<div align="center">
 
-A model is a **component**.
+### `THINKNOTES`
 
-A production AI system also needs:
+Collaborative full-stack application.
+
+`MERN` · `real-time collaboration` · `UI/UX`
+
+---
+
+### `MOODTUNES`
+
+Mood-driven music experience.
+
+`JavaScript` · `interaction design` · `frontend`
+
+---
+
+### `LOLA`
+
+Real-time conversational AI engineering.
+
+`Voice` · `LLM` · `Tool Calling` · `Streaming` · `Latency`
+
+</div>
+
+---
+
+# `12 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hemnath4114&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hemnath4114&theme=tokyonight&hide_border=true&border_radius=16"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemnath4114&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8"/>
+
+</div>
+
+---
+
+# `13 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemnath4114&theme=tokyo-night&hide_border=true&area=true&radius=16"/>
+
+</div>
+
+---
+
+# `14 // TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hemnath4114&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+# `15 // THE PRINCIPLES`
 
 ```text
-                 ┌──────────────────────┐
-                 │      AI MODEL        │
-                 └──────────┬───────────┘
-                            │
-        ┌───────────────────┼───────────────────┐
-        │                   │                   │
-        ▼                   ▼                   ▼
-   Orchestration         Memory            Tooling
-        │                   │                   │
-        └───────────────────┼───────────────────┘
+01  Measure before optimizing.
+
+02  Optimize the critical path.
+
+03  Stream whenever possible.
+
+04  Minimize unnecessary work.
+
+05  Design for interruption.
+
+06  Assume dependencies will fail.
+
+07  Keep architecture understandable.
+
+08  Let complexity live inside the system,
+    not inside the user experience.
+```
+
+---
+
+# `16 // THE NEXT BUILD`
+
+<div align="center">
+
+```text
+                    ┌───────────────┐
+                    │   HUMAN       │
+                    └───────┬───────┘
                             │
                             ▼
-                     Streaming Layer
+                    ┌───────────────┐
+                    │   INTENT      │
+                    └───────┬───────┘
                             │
                             ▼
-                     Observability
+                 ┌─────────────────────┐
+                 │   INTELLIGENCE      │
+                 │                     │
+                 │ reason / remember   │
+                 │ plan / execute      │
+                 └──────────┬──────────┘
                             │
                             ▼
-                     Reliability
+                 ┌─────────────────────┐
+                 │     REAL-TIME       │
+                 │       ACTION        │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                       EXPERIENCE
 ```
 
-The model may provide intelligence.
+</div>
 
-**The architecture determines whether that intelligence is actually useful.**
+I'm interested in the point where **AI stops feeling like a software feature and starts feeling like an interface.**
 
 ---
 
-# 🚀 Things I've Built / Worked On
+# `17 // OFF THE STACK`
 
-### 🎙️ Real-Time Voice Agent Systems
+`football` · `cricket` · `music` · `design` · `late-night debugging`
 
-Architectures involving:
+Still obsessed with clean interfaces.
 
-* speech recognition
-* LLM reasoning
-* tool execution
-* state management
-* streamed model output
-* streamed TTS
-* interruption handling
-* latency optimization
-
-### ⚡ Voice Latency Optimization
-
-Worked on reducing unnecessary waiting inside conversational pipelines by analyzing:
-
-```text
-LLM
- ↓
-Tool Call
- ↓
-LLM
- ↓
-TTS
-```
-
-and looking for opportunities around:
-
-```text
-parallelism
-streaming
-early execution
-queue optimization
-state reuse
-cancellation
-critical-path reduction
-```
-
-### 🧠 AI Engineering Experiments
-
-Exploring how different:
-
-* LLMs
-* speech models
-* TTS systems
-* orchestration strategies
-* routing methods
-* prompting approaches
-
-behave under actual system constraints.
-
----
-
-# 📐 Engineering Philosophy
-
-### 01 — Measure before optimizing
-
-```text
-intuition
-   ↓
-hypothesis
-   ↓
-measurement
-   ↓
-bottleneck
-   ↓
-optimization
-   ↓
-measurement again
-```
-
-### 02 — Optimize the critical path
-
-Making a non-critical component faster does not matter if the user still waits on the critical path.
-
-### 03 — Stream whenever possible
-
-Don't wait for:
-
-```text
-everything → complete → process → respond
-```
-
-Prefer:
-
-```text
-partial → process → emit → continue
-```
-
-### 04 — Minimize unnecessary work
-
-Every extra:
-
-* network request
-* serialization step
-* model round trip
-* queue hop
-* blocking call
-
-is a potential source of latency.
-
-### 05 — Build for failure
-
-Real systems fail.
-
-Networks fail.
-Models fail.
-Tools timeout.
-Connections disappear.
-Audio arrives late.
-Users interrupt.
-
-Good systems expect that.
-
----
-
-# 🧠 My Current Mental Model
-
-```text
-                 HUMAN
-                   │
-                   ▼
-               ┌───────┐
-               │ VOICE │
-               └───┬───┘
-                   │
-                   ▼
-          ┌────────────────┐
-          │ PERCEPTION     │
-          │ ASR / VAD / LID│
-          └───────┬────────┘
-                  │
-                  ▼
-          ┌────────────────┐
-          │ ORCHESTRATION  │
-          │ State + Policy │
-          └───────┬────────┘
-                  │
-          ┌───────┼────────┐
-          │       │        │
-          ▼       ▼        ▼
-        LLM     TOOLS    MEMORY
-          │       │        │
-          └───────┼────────┘
-                  │
-                  ▼
-          ┌────────────────┐
-          │ GENERATION     │
-          │ Streaming LLM  │
-          └───────┬────────┘
-                  │
-                  ▼
-          ┌────────────────┐
-          │ SPEECH         │
-          │ Streaming TTS  │
-          └───────┬────────┘
-                  │
-                  ▼
-                HUMAN
-```
-
-The goal is not simply to connect these boxes.
-
-The goal is to make the **whole loop disappear**.
-
----
-
-# 🛠️ Tools I Reach For
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark" />
-
-</p>
-
-I also spend a lot of time with the less glamorous but more important tools:
-
-```text
-logs
-profilers
-traces
-timers
-benchmarks
-network inspection
-model evaluation
-load tests
-failure reproduction
-```
-
-Because when something feels slow, "probably the model" is not an analysis.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Hemnath4114&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-height="170"
-/>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=Hemnath4114&theme=tokyonight&hide_border=true&border_radius=12"
-height="170"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemnath4114&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"
-height="170"
-/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemnath4114&theme=tokyo-night&area=true&hide_border=true&radius=12" />
-
-</p>
-
----
-
-# 🏆 Achievements
-
-```text
-◆ Built and worked on production-oriented AI systems
-◆ Explored real-time voice interaction architectures
-◆ Worked deeply with LLM tool-calling workflows
-◆ Focused on reducing conversational system latency
-◆ Built full-stack applications before moving deeper into AI engineering
-◆ Continued experimenting with speech, LLM, and orchestration systems
-◆ Always learning something that makes the previous version obsolete
-```
-
----
-
-# 🌌 Beyond the Code
-
-I like systems that are:
-
-```text
-simple
-        ↓
-fast
-        ↓
-predictable
-        ↓
-beautiful
-        ↓
-hard to break
-```
-
-I enjoy:
-
-**AI · voice technology · system design · problem solving · music · football · cricket · late-night debugging**
-
-And yes —
-
-I still care way too much about good UI.
-
-Because engineering should work beautifully **inside and outside**.
-
----
-
-# 🛰️ What I'm Exploring Next
-
-```text
-        ┌─────────────────────────────┐
-        │     NEXT FRONTIER           │
-        └──────────────┬──────────────┘
-                       │
-         ┌─────────────┼─────────────┐
-         ▼             ▼             ▼
-    Voice Agents    AI Systems    Inference
-         │             │             │
-         └─────────────┼─────────────┘
-                       │
-                       ▼
-                Real-Time AI
-                       │
-                       ▼
-                 Human-Like
-                  Interaction
-```
-
-The long-term goal is simple:
-
-> **Build AI systems that don't feel like software talking to a human.**
-
-They should feel like another participant in the conversation.
-
----
-
-# 🔗 Find Me
-
-<p align="center">
-
-<a href="mailto:hemnath041104@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/hemnath-marimuthu-in/">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Hemnath4114">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hemnath._._/">
-  <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</p>
+Just increasingly interested in the systems underneath them.
 
 ---
 
 <div align="center">
 
-### `SIGNAL > NOISE`
+<br/>
 
-**Build things worth understanding.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=The+goal+isn't+to+make+AI+look+intelligent.;The+goal+is+to+make+intelligence+feel+natural."/>
 
-**Measure what matters.**
+<br/><br/>
 
-**Make the machine disappear.**
+```text
+────────────────────────────────────────────────────────
+
+                HEMNATH M // AI ENGINEER
+
+         build systems • measure everything
+              make intelligence feel simple
+
+────────────────────────────────────────────────────────
+```
 
 <br/>
 
-`Made with curiosity, stubbornness, and a ridiculous amount of debugging.`
-
-<br/>
-
-**— Hemnath M 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0A0F14,100:050505"/>
 
 </div>
