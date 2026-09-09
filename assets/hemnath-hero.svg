@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07090D"/>
+      <stop offset="0.55" stop-color="#0A0F16"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="150" y1="80" x2="1450" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1330 110) rotate(135) scale(450)">
+      <stop stop-color="#06B6D4" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(350 580) rotate(-40) scale(520)">
+      <stop stop-color="#7C3AED" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur30" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <filter id="blur12" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <linearGradient id="strokeFade" x1="200" y1="0" x2="1400" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.04"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="620" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="620" rx="36" fill="url(#grid)"/>
+  <rect width="1600" height="620" rx="36" fill="url(#glow1)"/>
+  <rect width="1600" height="620" rx="36" fill="url(#glow2)"/>
+
+  <g filter="url(#blur30)">
+    <ellipse cx="1290" cy="125" rx="170" ry="70" fill="#22D3EE" fill-opacity="0.16"/>
+    <ellipse cx="380" cy="530" rx="220" ry="90" fill="#8B5CF6" fill-opacity="0.11"/>
+  </g>
+
+  <rect x="34" y="34" width="1532" height="552" rx="28" stroke="url(#edge)" stroke-opacity="0.35"/>
+  <rect x="52" y="52" width="1496" height="516" rx="24" stroke="url(#strokeFade)" stroke-opacity="0.20"/>
+
+  <!-- top chrome -->
+  <g font-family="Inter, Arial, sans-serif">
+    <circle cx="90" cy="94" r="6" fill="#EF4444"/>
+    <circle cx="114" cy="94" r="6" fill="#F59E0B"/>
+    <circle cx="138" cy="94" r="6" fill="#22C55E"/>
+    <text x="170" y="100" font-size="13" letter-spacing="2.5" fill="#A1A1AA">HEMNATH.M / PROFILE.SYS</text>
+
+    <text x="1460" y="99" font-size="11" text-anchor="end" letter-spacing="1.5" fill="#6EE7FF">SYSTEM ONLINE</text>
+  </g>
+
+  <!-- central monogram -->
+  <g transform="translate(112 170)">
+    <rect x="0" y="0" width="156" height="156" rx="28" fill="#0D1117" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <path d="M40 46V112M40 79H96M96 46V112" stroke="url(#edge)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 79L98 46M40 79L98 112" stroke="#F4F4F5" stroke-opacity="0.85" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="113" cy="42" r="6" fill="#6EE7FF"/>
+    <circle cx="113" cy="114" r="6" fill="#8B5CF6"/>
+  </g>
+
+  <!-- title -->
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="318" y="200" font-size="74" font-weight="800" letter-spacing="-2.5" fill="#F8FAFC">HEMNATH</text>
+    <text x="322" y="250" font-size="21" font-weight="600" letter-spacing="6" fill="#94A3B8">AI ENGINEER / VOICE / SYSTEMS</text>
+    <rect x="322" y="276" width="630" height="1" fill="url(#edge)" fill-opacity="0.55"/>
+    <text x="322" y="322" font-size="25" font-weight="500" fill="#E2E8F0">Building intelligent systems that listen, reason,</text>
+    <text x="322" y="357" font-size="25" font-weight="500" fill="#E2E8F0">act and respond — without making the user wait.</text>
+  </g>
+
+  <!-- right telemetry -->
+  <g font-family="JetBrains Mono, monospace">
+    <rect x="1080" y="170" width="350" height="240" rx="20" fill="#0B0F14" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="1112" y="208" font-size="11" letter-spacing="2" fill="#64748B">CURRENT FOCUS</text>
+
+    <text x="1112" y="244" font-size="16" fill="#F8FAFC">VOICE AI</text>
+    <text x="1112" y="272" font-size="16" fill="#F8FAFC">LLM ORCHESTRATION</text>
+    <text x="1112" y="300" font-size="16" fill="#F8FAFC">REAL-TIME STREAMING</text>
+    <text x="1112" y="328" font-size="16" fill="#F8FAFC">LATENCY ENGINEERING</text>
+
+    <text x="1112" y="370" font-size="10" letter-spacing="2" fill="#64748B">STATUS</text>
+    <text x="1112" y="396" font-size="14" fill="#6EE7FF">BUILDING / MEASURING / REPEATING</text>
+  </g>
+
+  <!-- signal line -->
+  <path d="M110 494H430L454 468L478 520L505 450L530 494H872L900 466L928 494H1428" stroke="#6EE7FF" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M110 494H430L454 468L478 520L505 450L530 494H872L900 466L928 494H1428" stroke="url(#edge)" stroke-width="2" filter="url(#blur12)" opacity="0.75"/>
+
+  <g font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="1.5" fill="#64748B">
+    <text x="112" y="532">VOICE</text>
+    <text x="382" y="532">REASON</text>
+    <text x="650" y="532">TOOLS</text>
+    <text x="912" y="532">STREAM</text>
+    <text x="1188" y="532">RESPOND</text>
+  </g>
+</svg>
